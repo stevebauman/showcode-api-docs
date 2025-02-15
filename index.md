@@ -4,9 +4,11 @@ title: "Documentation"
 
 # Introduction
 
-The Showcode API is **free to use with unlimited usage**. :tada:
+The Showcode API allows you to generate beautiful code screenshots for your projects programmatically over HTTP.
 
-However, you must create an API key by registering for an account:
+It uses the [Showcode](https://showcode.app) application under the hood, so you can expect the same quality and features.
+
+The API is free to use with unlimited usage. However, you must create an API key by registering for an account:
 
 [Register an Account](https://api.showcode.app)
 
